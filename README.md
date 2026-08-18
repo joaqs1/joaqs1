@@ -24,3 +24,6 @@ Building server-side applications with Django or Express.js.
 🔭 I’m currently working on my final API project.
 
 Thanks for stopping by!
+🎉 Fun Fact
+
+I enjoy learning new things about technology and exploring how software works.
